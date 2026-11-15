@@ -1,0 +1,9 @@
+clinic_id,clinic_name,city,tier,latitude,longitude,temp_c
+C01,Kothrud Family Clinic,Pune,Tier 1,18.5074,73.8077,28.0
+C02,Hadapsar Care Centre,Pune,Tier 1,18.5089,73.9259,28.0
+C03,Malviya Nagar Clinic,Jaipur,Tier 2,26.8549,75.8243,28.0
+C04,Vaishali Nagar Clinic,Jaipur,Tier 2,26.9124,75.7447,28.0
+C05,Vijay Nagar Clinic,Indore,Tier 2,22.7533,75.8937,28.0
+C06,Edappally Medical Centre,Kochi,Tier 2,10.0261,76.3125,28.0
+C07,Koramangala Health Hub,Bangalore,Tier 1,12.9352,77.6245,28.0
+C08,Andheri West Clinic,Mumbai,Tier 1,19.1136,72.8258,28.0
