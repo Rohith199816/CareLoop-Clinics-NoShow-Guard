@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0872,forgot_or_no_reminder,1.0,Patient missed the appointment because she forgot and received no reminder. She wishes to reschedule for next week.,Reschedule the patient's appointment for next week and verify her SMS/email reminder preferences in the EHR.,valid,
+N002,A0897,distance_or_transport,0.98,Patient missed appointment due to living far from the clinic and lacking available transportation that morning.,Offer telehealth options or provide resources for local patient transportation services.,valid,
+N003,A0526,cost_or_fee,0.98,Patient skipped the appointment due to high consultation fees and inquired about follow-up discounts.,"Inform the patient about available financial assistance, payment plans, or follow-up discount options before rescheduling.",valid,
+N004,A0926,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N005,A0534,illness_or_emergency,0.98,"Patient missed appointment due to a high fever and body aches, opting to stay in bed until recovered.",Follow up in 2-3 days to check recovery status and reschedule the appointment.,valid,
+N006,A0507,work_or_schedule,0.98,Patient missed appointment due to an urgent mandatory work meeting and requested an evening appointment.,Reschedule patient into an evening time slot as requested.,valid,
+N007,A0333,forgot_or_no_reminder,0.98,Patient missed appointment because they forgot and did not receive an SMS reminder. Requested a new booking.,Reschedule the patient appointment and verify SMS notification settings in the system.,valid,
+N008,A0222,distance_or_transport,0.98,"Patient missed appointment due to a city bus strike and lack of local transport options, making distance an issue.",Assist patient in rescheduling and offer options for telehealth or transportation support services if available.,valid,
+N009,A0977,other,0.95,Unable to reach patient after three call attempts because their phone was switched off.,Send an automated text message or email asking the patient to call back and reschedule.,valid,
+N010,A0596,work_or_schedule,1.0,Patient missed appointment due to a factory shift change and requested Saturday appointments instead.,Reschedule the patient for an available Saturday slot.,valid,
